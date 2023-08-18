@@ -1,4 +1,5 @@
-# Movie_Database_Analysis
+# Unmasking Cinematic Insights :An Analysis of Movie Database
+
 ## Introduction
 In this project, we embarked on an exciting journey by importing a dataset from Kaggle, a renowned platform for data enthusiasts.
 
